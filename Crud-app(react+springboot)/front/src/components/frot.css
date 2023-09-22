@@ -1,0 +1,46 @@
+.bg-container{
+    /* background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover; */
+    background-image: url('C:\Users\SSLTP11395\Downloads\conversation_business_03.jpg');
+    background-size: cover; 
+    height: 100vh;
+    width: 150ex;
+    background-attachment: fixed
+}
+.bg-containers{
+
+background-image: url('C:\Users\SSLTP11395\Downloads\addEmp.jpg');
+    background-size: cover; 
+    height: 100vh;
+    width: 150ex;
+    background-attachment: fixed
+}
+.bg-containerers{
+
+    background-image: url('C:\Users\SSLTP11395\Downloads\update2.jpg');
+        background-size: cover; 
+        height: 100vh;
+        width: 150ex;
+        background-attachment: fixed
+    }
+    .bg-containererss{
+
+        background-image: url('C:\Users\SSLTP11395\Downloads\view1.jpg');
+            background-size: cover; 
+            height: 100vh;
+            width: 150ex;
+            background-attachment: fixed
+        }
+        .bg-containerersss{
+
+            background-image: url('C:\Users\SSLTP11395\Downloads\developer5.jpg');
+                background-size: cover; 
+                height: 70vh;
+                width: 150ex;
+                background-attachment: fixed
+            }
+            .navbar-brand{
+                float: right;
+            }
